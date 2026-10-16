@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "ファイルの一覧",
+            "type": "shell",
+            "command": "ls"
+        }
+    ]
+}
